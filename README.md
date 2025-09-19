@@ -1,7 +1,5 @@
 <!-- 기존 내용 유지 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:36587d,100:387069&height=80&fontColor=000000&fontSize=50" />
-</div>
+
 
 <div> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> imjiinsoo </h2>  
