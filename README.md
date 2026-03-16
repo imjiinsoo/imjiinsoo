@@ -6,6 +6,7 @@
   <ul style="list-style-position: inside; font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
     <li> 한양대학교 Erica캠퍼스 </li>
     <li>  ICT 융합학부 디자인테크놀로지 전공 </li>
+    <li>  컴퓨터학부 다중전공 </li>
   </ul>
 </div>
 
